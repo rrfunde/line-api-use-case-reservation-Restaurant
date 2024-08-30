@@ -21,7 +21,7 @@ Parameters:
 Mappings:
   EnvironmentMap:
     dev:
-      MessageTableName: RemindMessageTableRestaurantDev
+      MessageTableName: LineAccessToken
       LINEChannelAccessTokenDBName: LINEChannelAccessTokenRestaurantDev
       EventBridgeName: RestaurantEventDev
       LayerVersion: Layer Version
