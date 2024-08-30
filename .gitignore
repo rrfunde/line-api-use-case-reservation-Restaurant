@@ -1,0 +1,4 @@
+
+backend/Layer/.aws-sam/*
+backend/batch/.aws-sam/*
+backend/.DS_Store
