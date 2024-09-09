@@ -24,7 +24,7 @@ Mappings:
       MessageTableName: RemindMessageTableRestaurantDev
       LINEChannelAccessTokenDBName: LINEChannelAccessTokenRestaurantDev
       EventBridgeName: RestaurantEventDev
-      LayerVersion: 9
+      LayerVersion: 10
       LoggerLevel: DEBUG
       # TTL is True:Reservation Data will be deleted at the specified date, False:Data will not be deleted
       TTL: False
