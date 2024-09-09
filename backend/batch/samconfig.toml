@@ -10,4 +10,4 @@ resolve_s3 = true
 s3_prefix = "sam-app"
 confirm_changeset = true
 image_repositories = []
-disable_rollback = true
+disable_rollback = false
